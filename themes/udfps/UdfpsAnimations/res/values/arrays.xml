@@ -102,7 +102,7 @@
         <item>udfps_swirl_recognizing_anim_19</item>
     </string-array>
 
-    <string-array translatable="false" name="udfps_animation_titles">
+    <string-array name="udfps_animation_titles">
         <item>None</item>
         <item>Bloom</item>
         <item>Cyber</item>
