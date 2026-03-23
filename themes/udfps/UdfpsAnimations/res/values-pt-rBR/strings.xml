@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string-array name="udfps_animation_titles">
+        <item>Nenhum</item>
+        <item>Flor</item>
+        <item>Cyber</item>
+        <item>Eletrônico</item>
+        <item>Fogos de artifício</item>
+        <item>Keqing</item>
+        <item>Mágica</item>
+        <item>Pacman</item>
+        <item>Escaneamento</item>
+        <item>Simples</item>
+        <item>Fumaça</item>
+        <item>Warp</item>
+        <item>Buraco de minhoca</item>
+        <item>Padrão MIUI</item>
+        <item>MIUI AOD</item>
+        <item>Aurora (K30 Pro)</item>
+        <item>Aurora (Mi 10 Ultra)</item>
+        <item>Luz</item>
+        <item>Pop</item>
+        <item>Pulso</item>
+        <item>Pulso (Branco)</item>
+        <item>Ritmo</item>
+        <item>Luz estelar</item>
+        <item>Energia</item>
+        <item>McLaren</item>
+        <item>Ondulação</item>
+        <item>Escaneando (Cyberpunk 2077)</item>
+        <item>Listras</item>
+        <item>Ondas</item>
+        <item>DNA</item>
+        <item>Futuro</item>
+        <item>Anel do halo</item>
+        <item>Molecular</item>
+        <item>Fusão</item>
+        <item>Pulsar</item>
+        <item>Supernova</item>
+        <item>Fogo Genshin</item>
+        <item>Bolha</item>
+        <item>Poeira estelar</item>
+        <item>Redemoinho</item>
+    </string-array>
+
+</resources>
